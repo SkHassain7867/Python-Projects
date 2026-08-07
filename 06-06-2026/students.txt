@@ -1,2 +1,0 @@
-HAMEED,21,b.tech
-Hassain,24,MCA
